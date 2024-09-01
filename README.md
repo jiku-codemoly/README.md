@@ -10,4 +10,4 @@
 
 - 💬 Ask me about **PHP, Laravel, Javascript, VueJS & ReactJS**
 
-- 📫 How to reach me **safzahidul.cse@gmail.com**
+- 📫 How to reach me **jiku.codemoly@gmail.com**
